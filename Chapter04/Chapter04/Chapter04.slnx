@@ -1,0 +1,7 @@
+<Solution>
+  <Project Path="CalculatorLib/CalculatorLib.csproj" Id="c3c36ec6-ddbd-4350-b226-e53e66594094" />
+  <Project Path="CalculatorLibUnitTests/CalculatorLibUnitTests.csproj" />
+  <Project Path="CallStackExceptionHandling/CallStackExceptionHandling.csproj" Id="10487a4a-e055-4351-aef4-f5569ba472a3" />
+  <Project Path="CallStackExceptionHandlingLib/CallStackExceptionHandlingLib.csproj" Id="b53b649e-2a62-4f85-8639-5a3493d84b21" />
+  <Project Path="Chapter04/Chapter04.csproj" />
+</Solution>
